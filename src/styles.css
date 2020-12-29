@@ -1,0 +1,34 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+button:focus{
+    outline: none !important ;
+}
+.headersearch .mat-form-field-appearance-outline .mat-form-field-wrapper{
+    margin: 0 !important;
+    padding: 0;
+}
+.headersearch .mat-form-field-appearance-outline .mat-form-field-outline{
+    background: #fff;
+    border-radius: 40px;
+    outline: none;
+}
+.headersearch .mat-form-field-appearance-outline .mat-form-field-outline-end {
+    border:none;
+}
+.headersearch .mat-form-field{
+    width: 260px !important;    outline: none;
+}
+.headersearch .mat-form-field .mat-input-element{
+color: #555;
+}
+.headersearch .mat-form-field-appearance-outline .mat-form-field-infix{
+    padding: 5px 0 10px 0;
+}  .headersearch mat-icon{
+    color: #636363d6 !important;
+  }
+
+  .apilist .mat-menu-panel{
+    background: transparent !important;
+  }

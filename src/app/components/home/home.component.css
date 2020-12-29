@@ -1,0 +1,207 @@
+
+.m-25{
+    margin: 25px 0;
+}
+.m-t-25{
+    margin-top: 25px;
+}
+.m-b-40{
+    margin-bottom:40px;
+}
+.m-t-40{
+    margin-top:40px;
+}
+.p-0{
+  padding: 0;
+}
+.sidenavbar{
+    /* width: 100%;
+    height: 300px; */
+  }
+  
+  .sidenavbar{
+    /* display: inline;
+    height: 100%;
+    align-items: center;
+    justify-content: center; */
+  }
+  
+
+  .example-container {
+  }
+  
+  .example-sidenav-content {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .example-sidenav {
+    padding: 20px;
+  }
+  
+
+  .example-sidenav {
+    padding: 20px;
+    background: #1a262b;
+    background: #1a262be0;
+    color: #fff;
+  }
+ 
+  
+ .logo{
+    color: rgba(0, 0, 0, .9);
+    background: #fff;
+    padding: 6px;
+    border-radius: 0 0 10px 10px;
+    margin: 0 10px;
+    margin-bottom: 15px;
+    /* position: relative;
+    width: 100%;
+    height: 40px; */
+ } 
+ .logo img{
+     
+    width: 175px;
+    /* position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%; */
+ }
+ .header .navicon {
+    width: 100%;
+    display: flex;
+    color: #fff;
+    padding: 15px 0;
+    background-image: linear-gradient(90deg, rgb(241 29 94) 0%, rgb(253, 29, 29) 50%, rgb(252, 176, 69) 100%);
+ }
+.header .navicon .mat-icon{
+    color: #ffffffd6;
+}
+
+  .header mat-grid-tile{
+    padding-top: calc((8% - 0.5px) * 1 + 0px) !important;
+  }
+  .header mat-grid-list{
+    padding-bottom: calc(1 * ((7% - 0.5px) * 1) + 0px + 0px) !important;
+  }
+  button.mat-menu-item{
+    width: 100%;
+    color: #fff;
+}
+.sidenavbar .mat-icon {
+    color: #fff;
+}
+
+.mat-drawer-container {
+    background-color:rgb(241 241 241);
+}
+
+.cardlist .example-card {
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+
+  
+
+  .cardlist .mat-card-header-text{
+      color: #fff;    margin-left: 0;
+  }
+  .cardlist .mat-card-header .mat-card-title{
+      color: #fff;    font-size: 20px;    margin-top: 6px;letter-spacing: 1px;;
+  }
+  .cardlist .mat-card-header .mat-card-subtitle{
+    color: #ffffffad;
+    margin-bottom: 0;    font-size: 12px;    margin-bottom: 4px;
+ letter-spacing: 0.5px; 
+  }
+  .cardlist .mat-card .mat-icon{
+    position: absolute;
+    right: 30px;
+    top: 0;
+    bottom: 0;
+    margin: auto;   font-size: 30px;
+  }
+  .cardlist mat-icon{
+      color: #fff;
+  }
+  .cardlist mat-grid-tile{
+    padding-top: calc((13% - 0.5px) * 1 + 0px) !important;
+  }
+  .cardlist mat-grid-list{
+    padding-bottom: calc(1 * ((7% - 0.5px) * 1) + 0px + 0px) !important;
+  }
+  .chart mat-grid-tile{
+    padding-top: calc((40% - 0.5px) * 1 + 0px) !important;
+  }
+  .cardlist mat-grid-tile{
+  }
+  .chart .leftchart{
+      width: 80%;
+  }
+  .chart .rightchart{
+      width: 80%;
+  }
+  .chart mat-card{
+      padding: 0;
+      background: #fff;
+  }
+  .chart h3{
+      text-transform: capitalize;
+      padding: 16px;
+      font-weight: 500;
+      color: #555;
+      box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  }
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  .headersearch .mat-form-field-appearance-outline .mat-form-field-outline {
+      background: #fff !important;
+  }
+
+  .headerright{
+      text-align: right;
+      padding-right: 30px;
+  }
+  .headerright button{
+    margin: 0 3px;
+  }
+  .mat-drawer.mat-drawer-side{
+      padding-top: 0;
+  }
+
+  /* .mat-form-field-appearance-outline .mat-form-field-outline-end */
+ul{
+  padding: 0;
+}
+  ul li{
+   list-style: none;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+
+  
+  }
+  ul li button{
+    padding: 0 15px;
+  }
+  .example-sidenav{
+    padding: 20px 0;
+  }
+  li button.mat-menu-item{
+    color: #ffffffba;    letter-spacing: 0.3px;
+  font-size: 13px;
+  }
+    .sidenavbar .mat-icon{
+      color: #ffffffba;font-size: 17px;
+      vertical-align: middle;
+      line-height: 24px;
+    }
+   
